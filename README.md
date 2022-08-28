@@ -54,6 +54,8 @@
 | 27 |     FU1                         |     Предохранитель плавкий                    |     RV25F            |     1               |                     |
 | 28 |     FU2                         |     Предохранитель самовосстанавливающийся    |     2 А              |     1               |     MF-R            |
 
+### разметку таблички делал в https://www.tablesgenerator.com/markdown_tables
+
 ### б) Взято с сайта http://www.medteh.info/forum/34-3229-1
 ![image](https://user-images.githubusercontent.com/110164325/187071424-b59b7e5d-6259-4a25-b699-bc3270f0b0d6.png)
 ![image](https://user-images.githubusercontent.com/110164325/187071431-d52ab218-3ebb-449d-9f69-f91798529708.png)
